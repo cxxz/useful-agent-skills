@@ -1,0 +1,24 @@
+# Environment files (contain API keys)
+.env
+!.env.example
+!.env.sample
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Caches
+webcache/
+.cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Virtual environments
+venv/
+.venv/
