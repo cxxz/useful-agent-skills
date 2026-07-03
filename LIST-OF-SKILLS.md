@@ -7,3 +7,4 @@
  - https://github.com/heygen-com/hyperframes
  - https://github.com/ConardLi/garden-skills/tree/main/skills/web-video-presentation
  - https://github.com/alchaincyf/nuwa-skill
+ - https://github.com/cclank/lanshu-animated-architecture-diagram
