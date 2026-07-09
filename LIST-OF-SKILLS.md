@@ -8,3 +8,4 @@
  - https://github.com/ConardLi/garden-skills/tree/main/skills/web-video-presentation
  - https://github.com/alchaincyf/nuwa-skill
  - https://github.com/cclank/lanshu-animated-architecture-diagram
+ - https://github.com/op7418/guizang-material-illustration
