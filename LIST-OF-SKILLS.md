@@ -10,3 +10,4 @@
  - https://github.com/cclank/lanshu-animated-architecture-diagram
  - https://github.com/op7418/guizang-material-illustration
  - https://github.com/Leonxlnx/taste-skill
+ - https://github.com/addsumtech/slides_maker
