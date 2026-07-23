@@ -11,3 +11,4 @@
  - https://github.com/op7418/guizang-material-illustration
  - https://github.com/Leonxlnx/taste-skill
  - https://github.com/addsumtech/slides_maker
+ - https://github.com/crazyykhllc-bit/CyberPPT
