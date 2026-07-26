@@ -12,3 +12,4 @@
  - https://github.com/Leonxlnx/taste-skill
  - https://github.com/addsumtech/slides_maker
  - https://github.com/crazyykhllc-bit/CyberPPT
+ - https://github.com/NanmiCoder/open-image-prompts
