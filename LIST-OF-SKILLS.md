@@ -14,3 +14,4 @@
  - https://github.com/crazyykhllc-bit/CyberPPT
  - https://github.com/NanmiCoder/open-image-prompts
  - https://github.com/lawve-ai/awesome-legal-skills
+ - https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md
